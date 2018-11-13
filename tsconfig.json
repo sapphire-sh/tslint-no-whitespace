@@ -1,0 +1,22 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "noImplicitAny": true,
+    "noImplicitReturns": true,
+    "noImplicitThis": true,
+    "noUnusedParameters": true,
+    "noUnusedLocals": true,
+    "strictNullChecks": true,
+    "strictFunctionTypes": true,
+    "strictPropertyInitialization": true,
+    "importHelpers": true,
+    "declaration": true,
+    "sourceMap": false,
+    "target": "es5",
+    "lib": [
+      "es2015",
+      "es2016"
+    ],
+    "outDir": "./dist"
+  }
+}
